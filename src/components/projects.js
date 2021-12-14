@@ -87,7 +87,7 @@ class Projects extends Component {
 
           {/* eclipse - Projects 1 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-          <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://i.imgur.com/cJodL5p.png) center / cover'}}>
+          <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://miro.medium.com/max/1400/1*20hS5w0ENZraHIzP0y4lpA.png) center / cover'}}>
             Projects
       //    </CardTitle>
           <div class="center-align">
@@ -116,7 +116,7 @@ class Projects extends Component {
 
           {/* R - Project 1 */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-          <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://media.istockphoto.com/videos/stock-market-bar-graph-trading-video-id1026933968?s=640x640) center / cover'}}>
+          <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg) center / cover'}}>
             React Project
           </CardTitle>
           <CardText>
