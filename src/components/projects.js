@@ -60,7 +60,7 @@ class Projects extends Component {
 
         {/* React - Project 3 */}
         <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-        <CardTitle style={{color: '#fff', height: '176px', background: ' center / cover'}}>
+        <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://media.gcflearnfree.org/ctassets/topics/241/Favs1_2_1.png) center / cover'}}>
           My Favorite Links
         </CardTitle>
         <div class="center-align">
