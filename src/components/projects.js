@@ -15,7 +15,7 @@ class Projects extends Component {
         <div className="projects-grid">
 
           {/* React - Project 1 */}
-          <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+          <Card shadow={5} style={{minWidth: '450', margin: '20px'}}>
           <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://cdn4.iconfinder.com/data/icons/modern-technologies-1/32/technology_gaming_technology_joystick_gear_cogwheel-1024.png?1) center / cover'}}>
             Portfolio Project
           </CardTitle>
@@ -39,7 +39,7 @@ class Projects extends Component {
         </Card>
 
         {/* React - Project 2 */}
-        <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+        <Card shadow={5} style={{minWidth: '450', margin: '20px'}}>
         <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://i.imgur.com/NfJN0jE.png) center / cover'}}>
           Design Pad Group Project
         </CardTitle>
@@ -59,7 +59,7 @@ class Projects extends Component {
       </Card>
 
         {/* React - Project 3 */}
-        <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+        <Card shadow={5} style={{minWidth: '450', margin: '20px'}}>
         <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://media.gcflearnfree.org/ctassets/topics/241/Favs1_2_1.png) center / cover'}}>
           My Favorite Links
         </CardTitle>
@@ -86,7 +86,7 @@ class Projects extends Component {
         <div className="projects-grid">
 
           {/* eclipse - Projects 1 */}
-          <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+          <Card shadow={5} style={{minWidth: '450', margin: '20px'}}>
           <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://miro.medium.com/max/1400/1*20hS5w0ENZraHIzP0y4lpA.png) center / cover'}}>
             Projects
       //    </CardTitle>
@@ -115,7 +115,7 @@ class Projects extends Component {
         <div className="projects-grid">
 
           {/* R - Project 1 */}
-          <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+          <Card shadow={5} style={{minWidth: '450', margin: '20px'}}>
           <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg) center / cover'}}>
             React Project
           </CardTitle>
